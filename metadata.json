@@ -1,0 +1,6 @@
+{
+  "name": "Burger Hub",
+  "description": "Halal smash burgers, hand-pressed daily. Bold, appetite-driven, street-food energy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
